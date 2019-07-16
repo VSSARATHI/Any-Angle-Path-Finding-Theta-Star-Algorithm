@@ -29,3 +29,5 @@ Esc : Optimize theta-star algorithm.
 
 4. Press Enter to start the algorithm.
 
+5. Once the path is found press Esc to view the optimized path.
+
