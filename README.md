@@ -23,7 +23,7 @@ Esc : Optimize theta-star algorithm.
 
 1. Open index.html in your browser and enter the number of rows and columns and press crtl to create a grid.
 
-2. Press squares of grids to create a obstacle.
+2. Press squares of grids to create an obstacle.
 
 3. Enter coordinates for source and destination .
 
